@@ -6,7 +6,7 @@ permalink: "index.html"
 
 
 
-Welcome to the (undergraduate) Complex Analysis Workshop, taught by me, [Ryan Tully-Doyle](https://rtullydo.github.io). This will be the permanent home of the files and videos I produce for the workshop. The associated text is William Johnson's [Calculus of Complex Functions](https://bookstore.ams.org/text-71) 
+Welcome to the (undergraduate) Complex Analysis Workshop, taught by me, [Ryan Tully-Doyle](https://rtullydo.github.io). This will be the permanent home of the files and videos I produce for the workshop. The associated text is William Johnson's [Calculus of Complex Functions](https://bookstore.ams.org/text-71).
 
 
   {% for post in site.posts %}
